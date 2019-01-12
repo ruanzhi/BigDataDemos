@@ -1,0 +1,16 @@
+#忽略.iml结尾文件
+*.iml
+/.idea
+/hadoop-demo/.idea/
+/hadoop-demo/target/
+/hadoop-demo/*.iml
+/storm-kafka-demo/.idea/
+/storm-kafka-demo/target/
+/storm-kafka-demo/*.iml
+/zookeeper-demo/target/
+/zookeeper-demo/.idea/
+/zookeeper-demo/*.iml
+
+
+
+
