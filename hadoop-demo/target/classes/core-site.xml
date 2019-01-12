@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<configuration>
+<property>
+<name>fs.default.name</name>
+<value>hdfs://192.168.1.113:9000</value>
+</property>
+<!-- 指定hadoop运行时产生文件的存放目录 -->
+<property>
+	<name>hadoop.tmp.dir</name>
+	<value>/home/ruanzhi/hadoop-2.4.1/tmp</value>
+</property>
+</configuration>
